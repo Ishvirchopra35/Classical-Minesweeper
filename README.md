@@ -6,7 +6,6 @@ A Python implementation of the classic Minesweeper game built with Pygame, featu
 
 **[Watch Gameplay Demo](https://www.youtube.com/watch?v=GrZwJ1MTJM4)**
 
-![Minesweeper Gameplay](assets/minesweeper-horizontal-banner.jpg)
 
 ## Screenshots
 
