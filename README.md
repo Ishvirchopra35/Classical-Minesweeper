@@ -56,7 +56,7 @@ This project recreates the beloved Minesweeper puzzle game where players must cl
 
 ## Tech Stack
 
-- **Python 3.x**: Core programming language
+- **Python 3.12**: Core programming language
 - **Pygame**: Game development framework for graphics and event handling
 - **Object-Oriented Design**: Clean class structure with `Game`, `Board`, and `Tile` classes
 
