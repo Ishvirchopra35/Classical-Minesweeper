@@ -346,12 +346,11 @@ YouTube Demo: [Watch Here](https://www.youtube.com/watch?v=GrZwJ1MTJM4)
 
 ```
 # Clone and run
-git clone https://github.com/Ishvirchopra35/Ishvir-Minesweeper-Game.git
-cd Ishvir-Minesweeper-Game
+git clone https://github.com/Ishvirchopra35/Classical-Minsweeper.git
+cd Classical-Minesweeper
 pip install pygame
 python main.py
 ```
 
 ---
 
-**⭐ If you enjoyed this project, please consider giving it a star on GitHub!**
