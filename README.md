@@ -12,19 +12,24 @@ A Python implementation of the classic Minesweeper game built with Pygame, featu
 <div align="center">
 
 ### Game Start
-![Game Start](screenshots/game_start.png)
+
+<img width="632" height="667" alt="image" src="https://github.com/user-attachments/assets/1529e21c-a02a-4e40-8058-5072ea744026" />
+
 *Fresh game board ready to play*
 
 ### Mid-Game
-![Mid Game](screenshots/mid_game.png)
+
+<img width="631" height="671" alt="image" src="https://github.com/user-attachments/assets/e78007f7-1530-426c-9985-d3cb3a43aa50" />
+
 *Strategic gameplay with revealed tiles and flags*
 
 ### Win Screen
-![Win Screen](screenshots/win_screen.png)
-*Victory! All non-mine tiles revealed*
+# Unfortunately, I've never beaten this game so I don't have a win screen picture
 
 ### Loss Screen
-![Loss Screen](screenshots/loss_screen.png)
+
+<img width="635" height="670" alt="image" src="https://github.com/user-attachments/assets/57100d16-0a56-471a-ba9b-8b2a9a924cac" />
+
 *Game over - mine exploded*
 
 </div>
